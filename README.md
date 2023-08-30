@@ -1,4 +1,4 @@
-### Hola mi nombre es Francisco, tengo 20 años y estudio programaciin ⚡
+### Hola mi nombre es Francisco, tengo 20 años y estudio programacion ⚡
 ![bandera-nacional-bandera-argentina](https://github.com/Francorvalan1212/Francorvalan1212/assets/142455688/82039c74-5792-4c41-b362-9486352df3fa)
 <!--
 **Francorvalan1212/Francorvalan1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
